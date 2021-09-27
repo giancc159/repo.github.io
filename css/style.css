@@ -1,0 +1,18 @@
+.nav-item{
+	padding: 10px 30px;
+	margin-left: 18px;
+}
+
+#nosotros img{
+	height: 90px;
+	width: 100px;
+}
+
+#nosotros{
+	position: absolute;
+
+}
+
+.footer a{
+	color: #ffffff;
+}
